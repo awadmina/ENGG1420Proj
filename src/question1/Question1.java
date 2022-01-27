@@ -8,7 +8,7 @@ package question1;
 
 /**
  *
- * @author minaawad
+ * @author minaawad this is text
  */
 public class Question1 
 {
