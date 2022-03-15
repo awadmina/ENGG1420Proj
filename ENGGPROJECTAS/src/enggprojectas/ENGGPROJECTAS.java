@@ -6,7 +6,7 @@ package enggprojectas;
 
 /**
  *
- * @author Doyin
+ * @author Arsham,Adedoyin, Mina, George
  */
 public class ENGGPROJECTAS {
 
