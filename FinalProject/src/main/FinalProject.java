@@ -14,7 +14,9 @@ public class FinalProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      AnimationPlayer player = new AnimationPlayer();
+player.loadAnimationFromFile("animation1.txt");
+player.run();
     }
     
 }
