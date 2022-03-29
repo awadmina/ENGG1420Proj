@@ -9,12 +9,8 @@
  */
 public class Circle extends Shape{
     
-    int r;
-    String color;
-    int x, y;
-    int border;//pixels
-    String borderColor;
-    
+    private int r;
+   
     
     
     Circle(){
@@ -22,6 +18,7 @@ public class Circle extends Shape{
     }
     
     public void Circle(){
+        
         
     }
 }
