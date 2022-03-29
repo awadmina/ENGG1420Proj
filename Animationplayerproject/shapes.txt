@@ -1,5 +1,9 @@
-3
-4
-5
-6
-7
+frames: 123
+speed: 345 fps
+2
+
+Circle
+r:10
+x:50
+y:50
+color: 255, 0, 0

@@ -9,14 +9,18 @@
  */
 public class Effects {
     
+    //String frames = "Frames: ";
     
-    Effects()
+    Effects(String frames)
     {
-        
+       // this.frames = frames;
     }
     
     public void Effects()
     {
+        //String found = frames.split(this.frames)[0];
+        //if(found.contains(this.frames)){
+            
         
     }
 }
