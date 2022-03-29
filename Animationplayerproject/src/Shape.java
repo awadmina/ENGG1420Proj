@@ -17,7 +17,10 @@ import java.util.logging.Logger;
  * @author minaawad
  */
 public class Shape {
-    
+    private String color;
+    private int x, y;
+    private int border;//pixels
+    private String borderColor;
    
     
     public static void main(String... args) throws FileNotFoundException
